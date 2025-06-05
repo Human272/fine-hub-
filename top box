@@ -1,0 +1,3 @@
+print("Made by Fineyaz")
+script_key="TBFOzzwCZIQAiUXckSvFbTkVkPpDSVUT";
+loadstring(game:HttpGet('https://pastebin.com/raw/mgM1BTqD'))()
